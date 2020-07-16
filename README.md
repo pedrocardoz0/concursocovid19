@@ -5,7 +5,7 @@
 
 Devido aos avanços da COVID-19 as unidades públicas de atendimento na cidade de Marília não conseguiram adaptar seus registros de casos de forma tecnologica e rápida.
 
-Sabendo-se disto a **Life Tecnologia, ASSERTI, UNIVEM e a Secretária de Saúde de Marília** resolveram propor este concurso com o objetivo de reunir alunos regularmente matriculados em cursos de nível superior ou técnico da área de Tecnologia da Informação, para desenvolverem soluções e ferramentas que auxiliem as unidades públicas de atendimento a registrarem os casos da pandemia.
+Sabendo-se disto a **Life Tecnologia, ASSERTI, UNIVEM, Unimed e a Secretária de Saúde de Marília** resolveram propor este concurso com o objetivo de reunir alunos regularmente matriculados em cursos de nível superior ou técnico da área de Tecnologia da Informação, para desenvolverem soluções e ferramentas que auxiliem as unidades públicas de atendimento a registrarem os casos da pandemia.
 
 ### Objetivos :100:
 
