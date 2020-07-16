@@ -1,7 +1,7 @@
 ## Concurso Sars-CoV-2 :hospital: <img src="https://noticias.unb.br/images/Noticias/2020/05-Mai/20200521_ProspeccoesAfetivas_FranciscoICON.jpg" title="COVID" align="right" height="120" />
 
 
-:star: Nos de uma estrela - Isto ajuda !
+:star: De uma estrela - Isto ajuda !
 
 Devido aos avanços da COVID-19 as unidades públicas de atendimento na cidade de Marília não conseguiram adaptar seus registros de casos de forma tecnologica e rápida.
 
