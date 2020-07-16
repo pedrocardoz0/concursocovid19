@@ -61,9 +61,9 @@ Está tendo problemas? Entre em contato conosco [contato](https://help.github.co
 ### Apoiadores :raised_hands:
 
 <div style="margin: 20px">
-  <img src="https://lh3.googleusercontent.com/proxy/TFeVgcQw_l4LcGOgwxfZpym07BVqJivXIzn-IXNX_qKABetvZfC52ckl4OfDZGyrnGD0lVS9v64MouVbgQc6UOg" title="ASSERTI" align="right" height="120">
+  <img src="https://lh3.googleusercontent.com/proxy/TFeVgcQw_l4LcGOgwxfZpym07BVqJivXIzn-IXNX_qKABetvZfC52ckl4OfDZGyrnGD0lVS9v64MouVbgQc6UOg" title="ASSERTI" height="120">
   <img src="lifelogo.jpg" title="LIFE" align="right" height="120">
-  <img src="https://3.bp.blogspot.com/-8rzHeL7HKO4/WlSzpHq8sqI/AAAAAAAANvc/y4H0b5m5dKc_CEU0VwY9EwNMd4zzazgdwCK4BGAYYCw/s752/logo%2Bsec.jpg" title="LIFE" align="right" height="120">
-  <img src="https://faustomartins.com.br/img/unimed-logo.png" title="LIFE" align="right" height="120">
+  <img src="https://3.bp.blogspot.com/-8rzHeL7HKO4/WlSzpHq8sqI/AAAAAAAANvc/y4H0b5m5dKc_CEU0VwY9EwNMd4zzazgdwCK4BGAYYCw/s752/logo%2Bsec.jpg" title="LIFE" height="120">
+  <img src="https://faustomartins.com.br/img/unimed-logo.png" title="LIFE" height="120">
 
 </div>
