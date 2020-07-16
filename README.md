@@ -58,11 +58,11 @@ A premiação será direcionada para a equipe vencedora que tiver a maior pontua
 
 Está tendo problemas? Entre em contato conosco [contato](https://help.github.com/categories/github-pages-basics/) ou [pelo site](https://github.com/contact) nós iremos te ajudar com seus problemas.
 
-### Apoiadores :raised_hands:
+### Apoiadores 🤝
 
-<div style="margin: 20px">
+<div align="center">
   <img src="https://lh3.googleusercontent.com/proxy/TFeVgcQw_l4LcGOgwxfZpym07BVqJivXIzn-IXNX_qKABetvZfC52ckl4OfDZGyrnGD0lVS9v64MouVbgQc6UOg" title="ASSERTI" height="120">
-  <img src="lifelogo.jpg" title="LIFE" align="right" height="120">
+  <img src="lifelogo.jpg" title="LIFE" height="120">
   <img src="https://3.bp.blogspot.com/-8rzHeL7HKO4/WlSzpHq8sqI/AAAAAAAANvc/y4H0b5m5dKc_CEU0VwY9EwNMd4zzazgdwCK4BGAYYCw/s752/logo%2Bsec.jpg" title="LIFE" height="120">
   <img src="https://faustomartins.com.br/img/unimed-logo.png" title="LIFE" height="120">
 
