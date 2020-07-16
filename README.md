@@ -29,15 +29,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit
 [Link](url) and ![Image](src)
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A equipe vencedora ficará com os nomes dos integrantes no README do concurso e no webite [ASSERTI CONCURSO COVID](https://guides.github.com/features/mastering-markdown/).
 
 ### Como irá acontecer? :calendar:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis lectus eu metus cursus semper. Vestibulum mi arcu, euismod eu consectetur in, aliquet quis mauris. Nam magna sem, tristique ut volutpat quis, semper nec erat. Maecenas vehicula nunc ac est pharetra vulputate sed a nunc.
+As soluções serão publicadas aqui no GitHub após o prazo final da entrega, vale lembrar que é improtante que o source code seja publicado no git ou em qualquer outra platafoma. As avaliações dos códigos ocorrerão por aqui, em caso de DB será necessário que a equipe compartilhe em uma conferência a arquitetura feita.
 
-### Vencedores :trophy:
+### Vencedores :tada:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis lectus eu metus cursus semper. Vestibulum mi arcu, euismod eu consectetur in, aliquet quis mauris. Nam magna sem, tristique ut volutpat quis, semper nec erat. Maecenas vehicula nunc ac est pharetra vulputate sed a nunc.
+A publicação dos vencedores será feita no WebSite da ASSERTI e no GitHub no dia ....., vale lembrar que os vencedores são aqueles que fizerem mais pontos
+
+### Pontuação :memo:
+
+> Atender os requisitos do software - 0 a 30 pontos
+> Padrões de desenvolvimento de software - 0 a 20 pontos
+> Interface Front-end do software - 0 a 20 pontos
+> Dashboard de informações analíticas - 0 a 20 pontos
+> Normalização e padrão do esquema do banco de dados - 0 a 10 pontos
+
+### Premiação :trophy:
+
+A premiação será direcionada para a equipe vencedora que tiver a maior pontuação.
+- Premio de R$ 2.000,00 para a equipe (**Patrocínio da empresa Life**)
+- Certificado de honra ao mérito concedido pela ASSERTI
+-
 
 ### Suporte e Contato :e-mail:	
 
