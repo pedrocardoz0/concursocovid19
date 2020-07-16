@@ -1,4 +1,5 @@
 ## Concurso Sars-CoV-2 :hospital:
+:star: Nos de uma estrela - Isto ajuda !
 
 Devido aos avanços da COVID-19 as unidades públicas de atendimento na cidade de Marília não conseguiram adaptar seus registros de casos de forma tecnologica e rápida.
 
