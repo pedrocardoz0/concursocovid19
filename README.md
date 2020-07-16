@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Concurso Sars-CoV-2 :hospital:
 
-You can use the [editor on GitHub](https://github.com/pedrocardoz0/concursocovid19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Devido aos avanços da COVID-19 as unidades públicas de atendimento na cidade de Marília não conseguiram adaptar seus registros de casos de forma tecnologica e rápida.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sabendo-se disto a ASSERTI, UNIVEM e a Secretária de Saúde de Marília resolveram propor este concurso com o objetivo de reunir alunos regularmente matriculados em cursos de nível superior ou técnico da área de Tecnologia da Informação, para desenvolverem soluções e ferramentas que auxiliem as unidades públicas de atendimento a registrarem os casos da pandemia.
 
-### Markdown
+### Objetivos :100:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Além de propor uma solução para a Secretaria da Saúde no municipio todas as soluções que forem criadas durante o concurso serão publicas no GitHub.
 
 ```markdown
-Syntax highlighted code block
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-1. Numbered
-2. List
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+2. Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Como irá acontecer? :calendar:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedrocardoz0/concursocovid19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis lectus eu metus cursus semper. Vestibulum mi arcu, euismod eu consectetur in, aliquet quis mauris. Nam magna sem, tristique ut volutpat quis, semper nec erat. Maecenas vehicula nunc ac est pharetra vulputate sed a nunc.
 
-### Support or Contact
+### Vencedores :trophy:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis lectus eu metus cursus semper. Vestibulum mi arcu, euismod eu consectetur in, aliquet quis mauris. Nam magna sem, tristique ut volutpat quis, semper nec erat. Maecenas vehicula nunc ac est pharetra vulputate sed a nunc.
+
+### Suporte e Contato :e-mail:	
+
+Está tendo problemas? Entre em contato conosco [contato](https://help.github.com/categories/github-pages-basics/) ou [pelo site](https://github.com/contact) nós iremos te ajudar com seus problemas.
