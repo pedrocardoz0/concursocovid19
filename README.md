@@ -41,11 +41,11 @@ A publicação dos vencedores será feita no WebSite da ASSERTI e no GitHub no d
 
 ### Pontuação :memo:
 
-> Atender os requisitos do software - 0 a 30 pontos
-> Padrões de desenvolvimento de software - 0 a 20 pontos
-> Interface Front-end do software - 0 a 20 pontos
-> Dashboard de informações analíticas - 0 a 20 pontos
-> Normalização e padrão do esquema do banco de dados - 0 a 10 pontos
+- Atender os requisitos do software - 0 a 30 pontos
+- Padrões de desenvolvimento de software - 0 a 20 pontos
+- Interface Front-end do software - 0 a 20 pontos
+- Dashboard de informações analíticas - 0 a 20 pontos
+- Normalização e padrão do esquema do banco de dados - 0 a 10 pontos
 
 ### Premiação :trophy:
 
