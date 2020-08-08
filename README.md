@@ -3,7 +3,7 @@
 
 :star: De uma estrela - Isto ajuda !
 
-Devido aos avanços da COVID-19 as unidades públicas de atendimento na cidade de Marília não conseguiram adaptar seus registros de casos de forma tecnologica e rápida.
+Devido aos avanços da COVID-19 surge a oportunidade de auxilar as unidades de atendimento com o uso da tecnologia para o registro de casos de Sars-CoV-2.
 
 Sabendo-se disto a **Life Tecnologia, ASSERTI, Unimed Marília, Covidas, ACIM e a Secretária de Saúde de Marília** resolveram propor este concurso com o objetivo de reunir alunos regularmente matriculados em cursos de nível superior da área de Tecnologia da Informação, para desenvolverem soluções e ferramentas que auxiliem as unidades públicas de atendimento a registrarem os casos da COVID-19.
 
