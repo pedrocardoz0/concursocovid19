@@ -29,4 +29,4 @@ A premiação será direcionada para a equipe vencedora que tiver a maior pontua
 
 ### Suporte e Contato :e-mail:	
 
-Está tendo problemas? Entre em contato conoscomnós iremos te ajudar com seus problemas. hackathonpelavida@gmail.com
+Está tendo problemas? Entre em contato conosco iremos te ajudar com seus problemas. hackathonpelavida@gmail.com
